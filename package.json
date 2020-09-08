@@ -1,0 +1,19 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.9"
+  }
+}
